@@ -1,4 +1,4 @@
-const correctAnswers = ['A','B','B','A','B'];
+const correctAnswers = ['B','B','B','A','B'];
 const form = document.querySelector('form');
 let domScore = document.querySelector('.score');
 const pOscore = document.querySelector('.score-place');
